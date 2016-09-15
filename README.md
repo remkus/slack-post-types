@@ -7,3 +7,6 @@ This plugin adds a menu to the Slack plugin's which allows you to select which C
 
 ## That's it?
 Yup, that's it. 
+
+## Release
+Version 0.1.0 is what we're using, but that doesn't mean it's incomplete. We're happy for you to create a pull request if you'd like to see certain things handled differently.
